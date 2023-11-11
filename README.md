@@ -1,2 +1,2 @@
-# DL-Explored
-Exploring Machine Learning , Deep Learning , CNN , RNN from scratch !
+## DL-Explored
+Exploring Machine Learning, Deep Learning, CNN, and RNN from scratch.
