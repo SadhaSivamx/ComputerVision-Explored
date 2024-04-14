@@ -1,4 +1,4 @@
-## DeepLearning-Explored
+## ComputerVision-Explored
 
 Dive into the realm of Computer vision with this comprehensive repository. Delve deep into the fundamentals of Image Processing, including Convolutional Neural Networks (CNN). Uncover the intricacies of building models from scratch.
 
