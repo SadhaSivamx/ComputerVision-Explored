@@ -1,6 +1,6 @@
 ## DeepLearning-Explored
 
-Dive into the realm of machine learning with this comprehensive repository. Delve deep into the fundamentals of neural networks, including Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN). Uncover the intricacies of building models from scratch, gaining hands-on experience in the world of artificial intelligence and deep learning.
+Dive into the realm of Computer vision with this comprehensive repository. Delve deep into the fundamentals of Image Processing, including Convolutional Neural Networks (CNN). Uncover the intricacies of building models from scratch.
 
 ## Max Pooling Layer (MPL) 
 
