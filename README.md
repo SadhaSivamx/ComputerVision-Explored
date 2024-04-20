@@ -1,5 +1,5 @@
-## ComputerVision-Explored
+![Untitled design](https://github.com/SadhaSivamx/ComputerVision-Explored/assets/106687593/9f47a56b-03c1-4bb0-bc37-ccd4c9a174c8)## ComputerVision-Explored
 
 This repository contains a collection of image-processing tasks done from scratch. The main motive is to help people understand the mathematical principles behind image processing functions and empower them to implement them more effectively.
 
-![MPL](https://github.com/SadhaSivamx/DL-Explored/assets/106687593/e5019955-5a78-413b-bac7-cb1d5ae45c0a)
+![Untitled design](https://github.com/SadhaSivamx/ComputerVision-Explored/assets/106687593/a917ede3-ff91-49e6-a9ea-145e35c84798)
